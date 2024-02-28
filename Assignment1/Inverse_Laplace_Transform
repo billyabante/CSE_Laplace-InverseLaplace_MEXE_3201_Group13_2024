@@ -1,10 +1,11 @@
 %% INVERSE LAPLACE TRANSFORM
+disp("INVERSE LAPLACE TRANSFORM")
 syms s
 
 %% II. Solve for Inverse Laplace Transform
 
 disp("II. Solve for the Inverse Laplace Transform of the following: ");
-
+ 
 disp("1.) "); 
 F3 = (8 - 3*s + s^2) / s^3;
 f3 = ilaplace(F3);
@@ -39,4 +40,3 @@ disp("3.) ")
 F3 = (s^4 + 2*s^3 + 3*s^2 + 4*s + 5) / (s*(s + 1));
 f3 = ilaplace(F3);
 pretty(f3)
-
