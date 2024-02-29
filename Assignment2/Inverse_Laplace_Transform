@@ -1,7 +1,8 @@
 %% ASSIGNMENT_2 Inverse Laplace Transform
+disp("ASSIGNMENT 2")
 syms s
 
-disp("ASSIGNMENT 2")
+disp("INVERSE LAPLACE TRANSFORM")
 disp("III. Solve for Inverse Laplace Transform of the following: ")
 
 disp("1.) "); 
