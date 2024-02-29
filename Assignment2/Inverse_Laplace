@@ -1,5 +1,7 @@
-%% III. Solve for Inverse Laplace Transform of the following:
+%% ASSIGNMENT_2 Inverse Laplace Transform
+syms s
 
+disp("ASSIGNMENT 2")
 disp("III. Solve for Inverse Laplace Transform of the following: ")
 
 disp("1.) "); 
