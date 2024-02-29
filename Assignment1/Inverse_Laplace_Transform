@@ -1,8 +1,6 @@
-%% INVERSE LAPLACE TRANSFORM
+%% ASSIGNMENT 1 - INVERSE LAPLACE TRANSFORM
 disp("INVERSE LAPLACE TRANSFORM")
 syms s
-
-%% II. Solve for Inverse Laplace Transform
 
 disp("II. Solve for the Inverse Laplace Transform of the following: ");
  
